@@ -16,7 +16,6 @@ function createBoxesContainer(totalBoxs) {
   boxes.append(boxesConteiner)
   boxesConteiner.append(...totalBoxs)
   
-  // if (boxesConteiner == 'div') return console.log("huitebe")
 }
 
 function createBoxes(amount) {
