@@ -25,7 +25,6 @@ let elemLi
 ingredientsContainer.append(...totalList)
 
 
-// OR:
 
 // const ingredientsContainer = document.querySelector("#ingredients");
 
