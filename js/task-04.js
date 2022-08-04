@@ -17,4 +17,3 @@ function decrement () {
 
 btnIncrement.addEventListener('click', increment)
 btnDecrement.addEventListener('click', decrement)
-console.dir(counter)
